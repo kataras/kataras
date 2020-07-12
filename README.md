@@ -6,7 +6,9 @@ Five years ago he fell in love with the [Go programming language](https://golang
 
 He shares his experience with people around the world through https://dev.to/kataras and https://medium.com/@kataras. And, like (almost) every developer, he really enjoys a hot cup of ☕️!
 
-<br />
-📩 &nbsp; Feel free to contact him...
+<br/>
+He is always available for you...
+
+<br/><br/>
 
 [![LinkedIn](https://raw.githubusercontent.com/kataras/kataras/master/linkedin-icon.png)](https://www.linkedin.com/in/gerasimos-maropoulos/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/kataras/kataras/master/twitter-icon.png)](https://twitter.com/makismaropoulos)
