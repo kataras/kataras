@@ -5,7 +5,7 @@ He is a self-taught developer with 12+ years of experience who loves talking to 
 Five years ago he fell in love with the [Go programming language](https://golang.org), and since then he hasn't cheated on for any other. Regularly advices startups and individuals on the latest web technologies.
 
 - [Iris Web Framework](https://github.com/kataras/iris)
-- [A modern, fast and scalable websocket written in Go](https://github.com/kataras/neffos)
+- [Websocket Framework written in Go](https://github.com/kataras/neffos)
 - [Fast and light HTTP router for Go](https://github.com/kataras/muxie)
 - [Public URLs for exposing your local web server](https://github.com/kataras/tunnel)
 - [Semver versioning for your Go APIs](https://github.com/kataras/versioning)
@@ -31,6 +31,6 @@ He shares his experience with people around the world through https://dev.to/kat
 <br/>
 He is always available for you...
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://raw.githubusercontent.com/kataras/kataras/master/linkedin-icon.png)](https://www.linkedin.com/in/gerasimos-maropoulos/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/kataras/kataras/master/twitter-icon.png)](https://twitter.com/makismaropoulos)
