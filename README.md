@@ -8,6 +8,7 @@ Five years ago he fell in love with the [Go programming language](https://golang
 - [Websocket Framework written in Go](https://github.com/kataras/neffos)
 - [Fast and light HTTP router for Go](https://github.com/kataras/muxie)
 - [Public URLs for exposing your local web server](https://github.com/kataras/tunnel)
+- [Flexible and easy to use HTTP File Server for Go](https://github.com/kataras/httpfs)
 - [Semver versioning for your Go APIs](https://github.com/kataras/versioning)
 - [Sitemap Protocol implementation for Go](https://github.com/kataras/sitemap)
 - [Use HTTP verbs in places where the client doesn't support it](https://github.com/kataras/methodoverride)
