@@ -1,3 +1,7 @@
+[![Black Lives Matter](https://iris-go.com/images/blacklivesmatter_banner.png)](https://support.eji.org/give/153413/#!/donation/checkout)
+
+<br/>
+
 # Let's talk about Gerasimos Maropoulos [![HitCount](https://hits.dwyl.com/kataras/kataras.svg)](https://hits.dwyl.com/kataras/kataras)
 
 [![Gerasimos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kataras&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
@@ -39,19 +43,19 @@ Regularly advices startups and individuals on the latest web technologies.
 
 Gerasimos shares his experience with people around the world through https://medium.com/@kataras and https://dev.to/kataras.
 
-<a href="https://bit.ly/2DziHIH" target="_new">
+<a href="https://bit.ly/2DziHIH" target="_blank">
   <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_top7-badge.png" />
 </a>
 
-<a href="https://bit.ly/3is7GaL" target="_new">
+<a href="https://bit.ly/3is7GaL" target="_blank">
   <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_3yearclub.png" />
 </a>
 
-<a href="https://bit.ly/3itibeh" target="_new">
+<a href="https://bit.ly/3itibeh" target="_blank">
   <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_2yearclub.png" />
 </a>
 
-<a href="https://bit.ly/2PzfhIr" target="_new">
+<a href="https://bit.ly/2PzfhIr" target="_blank">
   <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_1yearclub.png" />
 </a>
 
