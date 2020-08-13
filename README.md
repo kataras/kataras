@@ -43,21 +43,23 @@ Regularly advices startups and individuals on the latest web technologies.
 
 Gerasimos shares his experience with people around the world through https://medium.com/@kataras and https://dev.to/kataras.
 
-<a href="https://bit.ly/2DziHIH" target="_blank">
-  <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_top7-badge.png" />
-</a>
+<p>
+  <a href="https://bit.ly/2DziHIH" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_top7-badge.png" />
+  </a>
 
-<a href="https://bit.ly/3is7GaL" target="_blank">
-  <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_3yearclub.png" />
-</a>
+  <a href="https://bit.ly/3is7GaL" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_3yearclub.png" />
+  </a>
 
-<a href="https://bit.ly/3itibeh" target="_blank">
-  <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_2yearclub.png" />
-</a>
+  <a href="https://bit.ly/3itibeh" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_2yearclub.png" />
+  </a>
 
-<a href="https://bit.ly/2PzfhIr" target="_blank">
-  <img align="left" style="max-height:97px" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_1yearclub.png" />
-</a>
+  <a href="https://bit.ly/2PzfhIr" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_1yearclub.png" />
+  </a>
+</p>
 
 <!-- - [Go vs .NET Core in terms of HTTP performance](https://medium.com/hackernoon/go-vs-net-core-in-terms-of-http-performance-7535a61b67b8)
 - [Iris Go vs .NET Core Kestrel in terms of HTTP performance](https://medium.com/hackernoon/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5)
