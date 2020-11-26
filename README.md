@@ -5,10 +5,6 @@
 Writing code is hard, it's difficult because it requires isolation, you have to banish any noise, anything that can disorient you, it's like you have to wear blindfolds to write. It is very lonely, it is a process that comes and isolates you from friends, from family, FROM LIFE ITSELF - this is how I perceive it, if you want to do it right. I can start something with enthusiasm and then I go into the process of judging it very strictly and what I liked on Monday, on Tuesday I no longer like. It is a difficult process but in the end it always makes you proud.
 <ins>[G.M.](https://www.facebook.com/makismaropoulos/posts/10224965766197770)<ins>
 
-[![Gerasimos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kataras&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
-
-[![Gerasimos' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kataras&layout=compact&theme=algolia)](https://bit.ly/2DRJEXJ)
-
 Regularly advices startups and individuals on the latest web technologies.
 
 <!-- <a href="https://bit.ly/2DRJEXJ" target="_new">
