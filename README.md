@@ -41,6 +41,10 @@ Gerasimos shares his experience with people around the world through https://med
     <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_top7-badge.png" />
   </a>
 
+  <a href="https://dev.to/badge/four-year-club" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_4yearclub.png" />
+  </a>
+
   <a href="https://bit.ly/3is7GaL" target="_blank">
     <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_3yearclub.png" />
   </a>
