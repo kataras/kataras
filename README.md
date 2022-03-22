@@ -37,6 +37,10 @@ Regularly advices startups and individuals on the latest web technologies.
 Gerasimos shares his experience with people around the world through https://medium.com/@kataras and https://dev.to/kataras.
 
 <p>
+  <a href="https://dev.to/badge/five-year-club" target="_blank">
+    <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_2K1hVXo--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/91/5-year-badge-draft-v1.png" />
+  </a>
+
   <a href="https://bit.ly/2DziHIH" target="_blank">
     <img with="75" style="width:75px;max-width:75px;height:75px" height="75" src="https://raw.githubusercontent.com/kataras/kataras/master/dev_to_top7-badge.png" />
   </a>
