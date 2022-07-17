@@ -1,4 +1,4 @@
-![https://twitter.com/MakisMaropoulos/status/1540988886356295680](https://instagram.fath4-2.fna.fbcdn.net/v/t51.2885-15/290479294_1225971384822676_994852998063941055_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fath4-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=tPvxCwWvDAMAX9pzwAz&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg3MDE3MTgwODk3MzUyMTc3Nw%3D%3D.2.w0-ccb7-5&oh=00_AT_I4JmX2QUpYZNGvSbrj5wELDN9_R-hpdoFs1ZmGnjNQg&oe=62DA6CC9&_nc_sid=30a2ef)
+[![](https://user-images.githubusercontent.com/22900943/179396542-82dde521-021d-4892-a36f-bfdb83752bec.jpg)](https://twitter.com/MakisMaropoulos/status/1540988886356295680)
 
 <br/>
 
