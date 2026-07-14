@@ -1,7 +1,7 @@
 Honored to be part of the [@AnthropicAI](https://x.com/AnthropicAI) Claude for Open Source Program! 🌟 Getting 6 months of Claude Max 20x is a massive win.
 <br/>Thank you for supporting my work on the Iris Web Framework and the wider OSS community!
  
-[![](https://raw.githubusercontent.com/kataras/kataras/refs/heads/master/Screenshot%202026-07-14%20122148.png)]([https://twitter.com/MakisMaropoulos/status/1540988886356295680](https://x.com/MakisMaropoulos/status/2028949824230371798))
+[![](https://raw.githubusercontent.com/kataras/kataras/refs/heads/master/Screenshot%202026-07-14%20122148.png)](https://x.com/MakisMaropoulos/status/2028949824230371798))
 
 <br/>
 
