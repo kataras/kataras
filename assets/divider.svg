@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-label="Section divider">
+  <style>
+    svg { --accent: #0d5eaf; --line: rgba(13, 94, 175, 0.3); }
+    @media (prefers-color-scheme: dark) {
+      svg { --accent: #58a6ff; --line: rgba(88, 166, 255, 0.3); }
+    }
+    .meander { fill: none; stroke: var(--accent); stroke-width: 4; opacity: 0.8; }
+    .rule { stroke: var(--line); stroke-width: 1; }
+  </style>
+  <defs>
+    <pattern id="meander" x="472" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path class="meander" d="M0 30H32M2 30V2H26V22H10V10H18"/>
+    </pattern>
+  </defs>
+  <line class="rule" x1="0" y1="30" x2="460" y2="30"/>
+  <rect x="472" width="256" height="32" fill="url(#meander)"/>
+  <line class="rule" x1="740" y1="30" x2="1200" y2="30"/>
+</svg>

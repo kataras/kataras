@@ -1,0 +1,28 @@
+name: Latest posts
+
+on:
+  schedule:
+    # 06:00 UTC daily
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest dev.to posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/kataras"
+          max_post_count: 6
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:mmm d, yyyy"
+          retry_count: 3
+          commit_message: "Update latest posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

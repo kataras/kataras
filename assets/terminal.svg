@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">gerasimos@athens: ~</title>
+  <desc id="desc">A terminal session. whoami: Gerasimos (Makis) Maropoulos, That Greek Gopher. Roles: Author of the Iris Web Framework, Founder and CEO of Hellenic Development, Creator of Plexon AI, Senior Backend Engineer and AI Architect at PNOE.</desc>
+  <style>
+    svg {
+      --bg: #ffffff;
+      --bar: #f6f8fa;
+      --border: #d0d7de;
+      --ink: #1f2328;
+      --muted: #656d76;
+      --green: #1a7f37;
+      --blue: #0969da;
+      --purple: #8250df;
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
+      font-size: 18px;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+        --bg: #0d1117;
+        --bar: #161b22;
+        --border: #30363d;
+        --ink: #e6edf3;
+        --muted: #8b949e;
+        --green: #3fb950;
+        --blue: #58a6ff;
+        --purple: #d2a8ff;
+      }
+    }
+    .bg { fill: var(--bg); }
+    .bar { fill: var(--bar); }
+    .frame { fill: none; stroke: var(--border); stroke-width: 1.5; }
+    .title { fill: var(--muted); font-size: 14px; }
+    .ink { fill: var(--ink); }
+    .muted { fill: var(--muted); }
+    .green { fill: var(--green); }
+    .blue { fill: var(--blue); }
+    .purple { fill: var(--purple); }
+    .cursor { fill: var(--ink); }
+
+    .p, .o { opacity: 0; animation: show 0.01s linear forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .typer { transform: scaleX(0); animation-fill-mode: forwards; animation-name: type; }
+    @keyframes type { to { transform: scaleX(1); } }
+    .t0 { transform-origin: 232px 0; animation-duration: 0.55s; animation-timing-function: steps(6, end); animation-delay: 0.35s; }
+    .t1 { transform-origin: 232px 0; animation-duration: 1.0s; animation-timing-function: steps(13, end); animation-delay: 2.0s; }
+    .t2 { transform-origin: 232px 0; animation-duration: 0.7s; animation-timing-function: steps(9, end); animation-delay: 4.5s; }
+    .cursor { fill-opacity: 0; animation: blink 1.1s steps(2, start) 5.9s infinite; }
+    @keyframes blink { 0%, 50% { fill-opacity: 1; } 50.01%, 100% { fill-opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .p, .o { opacity: 1; animation: none; }
+      .typer { transform: none; animation: none; }
+      .cursor { fill-opacity: 1; animation: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="win"><rect width="1200" height="400" rx="12"/></clipPath>
+    <clipPath id="c0"><rect x="0" y="62" width="232" height="30"/><rect class="typer t0" x="232" y="62" width="76" height="30"/></clipPath>
+    <clipPath id="c1"><rect x="0" y="122" width="232" height="30"/><rect class="typer t1" x="232" y="122" width="160" height="30"/></clipPath>
+    <clipPath id="c2"><rect x="0" y="272" width="232" height="30"/><rect class="typer t2" x="232" y="272" width="112" height="30"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect class="bg" width="1200" height="400"/>
+    <rect class="bar" width="1200" height="44"/>
+  </g>
+  <circle cx="24" cy="22" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="22" r="6.5" fill="#febc2e"/>
+  <circle cx="68" cy="22" r="6.5" fill="#28c840"/>
+  <text class="title" x="600" y="27" text-anchor="middle">gerasimos@athens: ~</text>
+
+  <text class="p" x="40" y="84" clip-path="url(#c0)"><tspan class="green">gerasimos@athens</tspan><tspan class="ink">:</tspan><tspan class="blue">~</tspan><tspan class="ink">$ whoami</tspan></text>
+  <text class="o" x="40" y="114" style="animation-delay: 1.1s"><tspan class="ink">Gerasimos (Makis) Maropoulos</tspan><tspan class="muted">&#160;&#160;# That Greek Gopher, Athens</tspan></text>
+
+  <text class="p" x="40" y="144" clip-path="url(#c1)" style="animation-delay: 1.8s"><tspan class="green">gerasimos@athens</tspan><tspan class="ink">:</tspan><tspan class="blue">~</tspan><tspan class="ink">$ cat roles.txt</tspan></text>
+  <text class="o" x="40" y="174" style="animation-delay: 3.2s"><tspan class="ink">Author of the Iris Web Framework</tspan><tspan class="muted">&#160;&#160;# since 2016</tspan></text>
+  <text class="o ink" x="40" y="204" style="animation-delay: 3.35s">Founder &amp; CEO, Hellenic Development</text>
+  <text class="o ink" x="40" y="234" style="animation-delay: 3.5s">Creator of Plexon AI</text>
+  <text class="o ink" x="40" y="264" style="animation-delay: 3.65s">Senior Backend Engineer and AI Architect at PNOE</text>
+
+  <text class="p" x="40" y="294" clip-path="url(#c2)" style="animation-delay: 4.3s"><tspan class="green">gerasimos@athens</tspan><tspan class="ink">:</tspan><tspan class="blue">~</tspan><tspan class="ink">$ ls links/</tspan></text>
+  <text class="o purple" x="40" y="324" style="animation-delay: 5.4s">hellenic.dev&#160;&#160;plexon.ai&#160;&#160;iris-go.com&#160;&#160;dev.to/kataras&#160;&#160;x.com/makismaropoulos</text>
+
+  <text class="p" x="40" y="354" style="animation-delay: 5.9s"><tspan class="green">gerasimos@athens</tspan><tspan class="ink">:</tspan><tspan class="blue">~</tspan><tspan class="ink">$ </tspan><tspan class="cursor">&#x2588;</tspan></text>
+
+  <rect class="frame" x="0.75" y="0.75" width="1198.5" height="398.5" rx="12"/>
+</svg>
