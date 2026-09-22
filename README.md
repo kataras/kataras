@@ -205,7 +205,12 @@ urgency, _ := resp.Score("urgency") // .Score, .Probabilities, .Confidence
 
 I have written on [dev.to](https://dev.to/kataras) since 2017 and on [Medium](https://medium.com/@kataras). The list below refreshes daily from the dev.to feed.
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [I ran $24,000 of Claude through my terminal in August. Here is what it built.](https://dev.to/kataras/i-ran-24000-of-claude-through-my-terminal-in-august-here-is-what-it-built-37h5) <sub>Sep 13, 2026</sub>
+- [Introducing llms.txt — AI Transparency for the Iris Web Framework](https://dev.to/kataras/introducing-llmstxt-ai-transparency-for-the-iris-web-framework-4af) <sub>Sep 13, 2025</sub>
+- [RFC: HTTP Wire Errors](https://dev.to/kataras/rfc-http-wire-errors-48jc) <sub>Dec 1, 2024</sub>
+- [HTTP Method Override](https://dev.to/kataras/http-method-override-1b6p) <sub>Nov 8, 2024</sub>
+- [Request Body Limit Middleware for Iris](https://dev.to/kataras/request-body-limit-middleware-for-iris-4999) <sub>Nov 1, 2024</sub>
+- [Basic Authentication Middleware for Iris](https://dev.to/kataras/basic-authentication-middleware-for-iris-42k8) <sub>Oct 31, 2024</sub>
 <!-- BLOG-POST-LIST:END -->
 
 Older pieces people still find useful:
